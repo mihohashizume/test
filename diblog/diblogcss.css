@@ -1,0 +1,87 @@
+.bookstore img {
+    width: 95%;
+    height: auto;
+} 
+
+header{
+    color: white;
+    background-color: black;
+    height: 30px;
+    width: 95%;
+}
+   
+
+li{
+    list-style: none;
+    margin-right: 20px;
+    float: left;
+    line-height: 30px;
+    }
+    
+    
+a {
+  color: white;
+}
+
+
+main{}
+
+.left{
+    width: 70%;
+    float: left;
+}
+    
+h1{
+    border-bottom: 2px solid gray;
+    border-left: 5px solid gray;
+    width:95%;
+    }
+
+
+.kijinakami{
+    height: auto;
+    width: 95%;
+    background-color: lightgray;
+    text-align: center;
+    float: left;
+    font-size: 10px;
+    text-align: center;
+}
+
+
+.kijinakami img {
+    width: 160px;
+    height: 120px;
+}
+
+
+
+.right{
+    width: 30%;
+    float: left;
+    padding: 0;
+}
+
+
+h2{
+    border-bottom: 2px solid lightgray;
+}
+
+
+.migi {
+    list-style: none;
+    margin-right: 20px;
+    line-height: 30px;
+    }
+
+.nakami{
+    padding-left: 20px;
+}
+
+
+footer{
+    clear: left;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
